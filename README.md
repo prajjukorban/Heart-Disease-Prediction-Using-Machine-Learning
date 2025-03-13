@@ -14,7 +14,7 @@ Heart disease is one of the leading causes of mortality worldwide. Machine learn
 - Interactive web app (optional, if using Flask/Streamlit)
 
 ## 📂 Dataset
-- **Source**: [UCI Heart Disease Dataset](https://github.com/prajjukorban/Heart-Disease-Prediction-Using-Machine-Learning/blob/main/heart-disease.csv)
+- **Source**: [Heart Disease Dataset](https://github.com/prajjukorban/Heart-Disease-Prediction-Using-Machine-Learning/blob/main/heart-disease.csv)
 - **Features**:
   - Age, Sex, Chest Pain Type (CP)
   - Resting Blood Pressure (Trestbps), Cholesterol, Fasting Blood Sugar (FBS)
